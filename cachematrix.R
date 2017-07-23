@@ -2,6 +2,8 @@
 ## functions do
 
 ## Write a short comment describing this function
+## Create cache for Inverse matrix, including set, get, setInv, getInt
+## use getInv to get the cached value. 
 
 makeCacheMatrix <- function(x = matrix()) {
   InvX <- NULL
